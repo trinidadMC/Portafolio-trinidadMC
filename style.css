@@ -339,6 +339,11 @@ button:focus {
 /* FEATURED SLIDER */
 /*--------------------*/
 
+#mu-profile-trini{
+	border: white;
+    height: 100%;
+    width: 42%;
+}
 #mu-featured-slider {
 	background-attachment: scroll;
 	background-size: cover;
