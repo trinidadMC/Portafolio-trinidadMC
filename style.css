@@ -663,13 +663,23 @@ button:focus {
 	margin-bottom: 15px;
 	position: relative;
 }
+.padre-habilidades{
+	display: flex;
+	flex-direction: row;
+	text-align: justify;
+	justify-content: space-between;
+	color: black;
+}
+
 .habilidades{
-		margin: 0 0 10px;
+		margin:24px;
 		/* display: block; */
 		margin-bottom: 5px;
 		font-size: 15px;
 		font-family: 'Open Sans', sans-serif;
-		text-align: left;
+		/* text-align: left; */
+		/* display: flex;
+		flex-direction: row */
 }
 .mu-header-dot {
 	border-radius: 0;
